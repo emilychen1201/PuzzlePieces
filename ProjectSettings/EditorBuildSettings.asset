@@ -1,0 +1,182 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/FirstPage.unity
+    guid: b669d28079f814748ab71967253ef102
+  - enabled: 1
+    path: Assets/Scenes/SelectName.unity
+    guid: 77a422c2e1aca48ab8e61e902a6b2aa7
+  - enabled: 1
+    path: Assets/Scenes/LevelMap.unity
+    guid: c4c47ee39c20e41f8b0d538f306b41b6
+  - enabled: 1
+    path: Assets/Scenes/SelectMode.unity
+    guid: ef80caba488fb4a6cb9708417b4a47d7
+  - enabled: 1
+    path: Assets/Scenes/Level1_CountDown_na.unity
+    guid: 0cd42f4b7966a48e69c36b1a16773934
+  - enabled: 1
+    path: Assets/Scenes/Level1_CountDown.unity
+    guid: a642c11d3f2394da189afaf24d238d21
+  - enabled: 1
+    path: Assets/Scenes/Level1_MemoryMode.unity
+    guid: 2df81baedc79f45f08961e4c36d962b2
+  - enabled: 1
+    path: Assets/Scenes/Level1_CopyMode.unity
+    guid: 124ebd337d54f4c549d2ba94f0225eaa
+  - enabled: 1
+    path: Assets/Scenes/Level2_CountDown_na.unity
+    guid: bb043fac58c0e4e03b5902b47ac47159
+  - enabled: 1
+    path: Assets/Scenes/Level2_CountDown.unity
+    guid: c4a80a881cd5e4cef884f591fe520845
+  - enabled: 1
+    path: Assets/Scenes/Level2_MemoryMode.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Level2_CopyMode.unity
+    guid: 3070b87e45089454da1a28904ee18329
+  - enabled: 1
+    path: Assets/Scenes/Level3_CountDown_na.unity
+    guid: 6e771ace6eae14c6280ffcc58196f17e
+  - enabled: 1
+    path: Assets/Scenes/Level3_CountDown.unity
+    guid: 8e71a419c432542ad89a25a2ce1b9f13
+  - enabled: 1
+    path: Assets/Scenes/Level3_MemoryMode.unity
+    guid: 570e8fd605f1e4f9f8efe8d13cf52770
+  - enabled: 1
+    path: Assets/Scenes/Level3_CopyMode.unity
+    guid: 31c9b1938aa4b4abd9c788e8c2f2cf15
+  - enabled: 1
+    path: Assets/Scenes/Level4_CountDown_na.unity
+    guid: 6ae68b8a91c614001a06a65940eadac6
+  - enabled: 1
+    path: Assets/Scenes/Level4_CountDown.unity
+    guid: ee6e7be92847f46ee822e7b841b4ae53
+  - enabled: 1
+    path: Assets/Scenes/Level4_MemoryMode.unity
+    guid: b92120d5549524bc4b139095080aab24
+  - enabled: 1
+    path: Assets/Scenes/Level4_CopyMode.unity
+    guid: 90e8a9d6309ce4762956f894681ce618
+  - enabled: 1
+    path: Assets/Scenes/Level5_CountDown_na.unity
+    guid: bb43bea4d06d345cb82b41876807bec5
+  - enabled: 1
+    path: Assets/Scenes/Level5_CountDown.unity
+    guid: c474faba7abef44e4aafb5d7e81821db
+  - enabled: 1
+    path: Assets/Scenes/Level5_MemoryMode.unity
+    guid: 4d92f41f78cec4b98b70a789df6c61f7
+  - enabled: 1
+    path: Assets/Scenes/Level5_CopyMode.unity
+    guid: 9a35f1a4e5fa140b39c2f6fb63774b28
+  - enabled: 1
+    path: Assets/Scenes/Level6_CountDown_na.unity
+    guid: 1f05ba0bf084c4970a3c65f86ebfd7fe
+  - enabled: 1
+    path: Assets/Scenes/Level6_CountDown.unity
+    guid: 212d1f378fa364055b946c07412e9e9f
+  - enabled: 1
+    path: Assets/Scenes/Level6_MemoryMode.unity
+    guid: 7bf6688b88ebf4fe6882960d3978cf94
+  - enabled: 1
+    path: Assets/Scenes/Level6_CopyMode.unity
+    guid: aaef8aecd2b9440a19a3d0452271b16f
+  - enabled: 1
+    path: Assets/Scenes/Level7_CountDown_na.unity
+    guid: 932620bb55ce64d9a883c8a49dad9078
+  - enabled: 1
+    path: Assets/Scenes/Level7_CountDown.unity
+    guid: 6740346fa70c14897afa0186cf9529fc
+  - enabled: 1
+    path: Assets/Scenes/Level7_MemoryMode.unity
+    guid: 00c1249d96cee46339c1d8361000893d
+  - enabled: 1
+    path: Assets/Scenes/Level7_CopyMode.unity
+    guid: 51fa1e6ca195542a0940ee9f13cd2d5a
+  - enabled: 1
+    path: Assets/Scenes/Level8_CountDown_na.unity
+    guid: 5b1d623f94f7f4ee299df6c2f75d6a81
+  - enabled: 1
+    path: Assets/Scenes/Level8_CountDown.unity
+    guid: 3a5bc3b8501d64e078a1bedb0db6d6d8
+  - enabled: 1
+    path: Assets/Scenes/Level8_MemoryMode.unity
+    guid: 28ac43f494c38459b81cc8dab445b44d
+  - enabled: 1
+    path: Assets/Scenes/Level8_CopyMode.unity
+    guid: 56fe5d1ad23ee47119e78bd9a1a3edd1
+  - enabled: 1
+    path: Assets/Scenes/Level9_CountDown_na.unity
+    guid: 327d8797017d043519da2535c2dccc84
+  - enabled: 1
+    path: Assets/Scenes/Level9_CountDown.unity
+    guid: 8a56de304248342f0b2cfd0f8a061eb6
+  - enabled: 1
+    path: Assets/Scenes/Level9_MemoryMode.unity
+    guid: 2ce1cb1b9a2824a07af4b0d032091faf
+  - enabled: 1
+    path: Assets/Scenes/Level9_CopyMode.unity
+    guid: 0b923739c494444ee9b80273cafeb701
+  - enabled: 1
+    path: Assets/Scenes/Level10_CountDown_na.unity
+    guid: 09683ac8e5d084c249400ad9af951c1e
+  - enabled: 1
+    path: Assets/Scenes/Level10_CountDown.unity
+    guid: 1e0f1d87c4244478e956e7c2bf2c6630
+  - enabled: 1
+    path: Assets/Scenes/Level10_MemoryMode.unity
+    guid: a754f6e49a19e4cb4b382441355f8951
+  - enabled: 1
+    path: Assets/Scenes/Level10_CopyMode.unity
+    guid: 32068773f89c14dd1b8ce577030d4707
+  - enabled: 1
+    path: Assets/Scenes/Level11_CountDown_na.unity
+    guid: 8b35144a67aad4263b4f19b18ed58d20
+  - enabled: 1
+    path: Assets/Scenes/Level11_CountDown.unity
+    guid: d3caa8f0d697b42d1b2718d53504f182
+  - enabled: 1
+    path: Assets/Scenes/Level11_MemoryMode.unity
+    guid: eefca15db40d5477d88b30f468e574e4
+  - enabled: 1
+    path: Assets/Scenes/Level11_CopyMode.unity
+    guid: cb511e65c0bf546389e3ad16e838506c
+  - enabled: 1
+    path: Assets/Scenes/Level12_CountDown_na.unity
+    guid: 8fbaa2cb696c641c59cae877836859d6
+  - enabled: 1
+    path: Assets/Scenes/Level12_CountDown.unity
+    guid: 3cf7507ac1b9f473cb0bf7df4bc3a67a
+  - enabled: 1
+    path: Assets/Scenes/Level12_MemoryMode.unity
+    guid: 307c2f1bbe6ab4cd9837acbbad09b107
+  - enabled: 1
+    path: Assets/Scenes/Level12_CopyMode.unity
+    guid: 546bd4a2f91644f3cbee5d41c4b0f75f
+  - enabled: 1
+    path: Assets/Scenes/Lose.unity
+    guid: 297f5368d2cae410fb65836c54a47e72
+  - enabled: 1
+    path: Assets/Scenes/Win.unity
+    guid: f1d414ee717a24019a95743fa683f641
+  - enabled: 1
+    path: Assets/Scenes/RankingList.unity
+    guid: 349bbc259e3614c96b344f343dbdd8ea
+  - enabled: 1
+    path: Assets/Scenes/LineChart.unity
+    guid: fb75439b6774e454f932a794edf0e059
+  - enabled: 1
+    path: Assets/Scenes/RadarChart.unity
+    guid: 22a5544f730ba423a8dc65b935365365
+  - enabled: 1
+    path: Assets/Scenes/DetailedTable.unity
+    guid: 116d3def4e9714790a23edbb71979673
+  m_configObjects: {}

@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - white
+  - red
+  - whiteRed
+  - yellowRed
+  - yellowGreen
+  - greenRed
+  - blueGreen
+  - blueYellow
+  - blueRed
+  - white-red
+  - blueCircle
+  - yellowCircle
+  - greenCircle
+  - redCircle
+  - orangeCircle
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - white
+  - white-red
+  - red
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3541162273
+    locked: 0
+  - name: Frame
+    uniqueID: 1919220657
+    locked: 0
+  - name: Shape
+    uniqueID: 2064820659
+    locked: 0
+  - name: Mask
+    uniqueID: 2018655433
+    locked: 0
+  - name: Cloud
+    uniqueID: 1043207105
+    locked: 0
+  - name: Navigation
+    uniqueID: 3831981349
+    locked: 0
